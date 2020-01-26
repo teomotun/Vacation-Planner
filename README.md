@@ -21,10 +21,7 @@ Used jupyter-gmaps and the Google Places API to plan future vacations.
 
 * Created a heat map that displays the humidity for every city from the WeatherPy notebook.
   
-  ![heatmap](WeatherPy/Output/humidity_heatmap.png)
-
 * Filtered the dataframe to find ideal weather
-
   * A max temperature lower than 80 degrees but higher than 70.
   * Wind speed less than 10 mph.
   * Zero cloudiness.
