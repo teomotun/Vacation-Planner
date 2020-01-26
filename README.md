@@ -3,7 +3,7 @@
 
 ## Background
 
-The repo contains two notebooks WeatherPy- explores the way weather changes as we approach the equator- and VacationPy- help plan future vacations given ideal weather conditions worldwide. I used Pandas, Numpy, Scipy, JSON, Matplotlib, Requests, CitiPy api and Google API (Geoplaces API, GMAP API) to accomplish my task.
+The repo contains two notebooks WeatherPy- explores the way weather changes as we approach the equator - and VacationPy - plan future vacations given ideal weather conditions worldwide - . I used Pandas, Numpy, Scipy, JSON, Matplotlib, Requests, CitiPy api and Google API (Geoplaces API, GMAP API) to accomplish my task.
 
 ### Part I - WeatherPy
 
