@@ -30,5 +30,5 @@ Used jupyter-gmaps and the Google Places API to plan future vacations.
 
 * Created a map of the hotels on top of the humidity heatmap with each pin containing the **Hotel Name**, **City**, and **Country**.
 
-  ![hotel map](WeatherPy/Output/vacationspot_heatmap.png)
+  ![hotel map](WeatherPy/Output/vacation_heatmap.png)
 
